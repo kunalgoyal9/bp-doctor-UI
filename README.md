@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatBot
 
 Front End Chat Interface which allows users to connect with an API.AI bot of choice or any other service.
@@ -35,3 +36,7 @@ Front End Chat Interface which allows users to connect with an API.AI bot of cho
 * [API.AI](https://api.ai) - Used to build conversation experiences
 * [Firebase](https://firebase.google.com) - Used for the Realtime Database
 * [jQuery](https://jquery.com) -  A Javascript Library used for easy DOM manipulation
+=======
+# bp-doctor-UI
+UI of BP doctor chatbot
+>>>>>>> db6ad4772055b1421d2a37ff372b76ca41be8f80

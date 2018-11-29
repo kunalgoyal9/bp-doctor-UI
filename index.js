@@ -310,7 +310,7 @@ function buttonResponse(message)
 	var $input;
 
 	// send the message to the multi message method to split it up, message will be sent here
-	multiMessage(message);
+	//multiMessage(message);
 	
 	// Regex used to find time delay, text of the message and responses to be buttons
 	var regex = /\<br(?:\s+?(\d+))?\>(.*?)(?=(?:\<ar(?:\s+\d+)?\>)|$)/g;
